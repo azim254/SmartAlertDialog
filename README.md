@@ -9,7 +9,7 @@ With this library you can easily use alert dialog in Android.<br>
 <br>
 To install the library just add this line to your gradle:
 	
-		        implementation 'com.github.azim254:SmartAlertDialog:v1.0.1'
+		        implementation 'com.github.azim254:SmartAlertDialog:v1.0.2'
 	
 And add this where you want:
 
