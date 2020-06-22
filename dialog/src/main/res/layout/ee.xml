@@ -92,7 +92,7 @@
                     android:layout_height="wrap_content"
                     android:text="Later"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:textColor="#fff"
+                    android:textColor="#000"
                     android:textSize="14sp"
                     android:textStyle="bold" />
 
@@ -118,7 +118,7 @@
                     android:layout_height="wrap_content"
                     android:text="OK"
                     android:textAppearance="?android:attr/textAppearanceMedium"
-                    android:textColor="#fff"
+                    android:textColor="#000"
                     android:textSize="14sp"
                     android:textStyle="bold" />
 
@@ -151,7 +151,7 @@
                 android:layout_height="match_parent"
                 android:layout_marginTop="1dp"
                 android:gravity="center_horizontal"
-                android:src="@drawable/icon2"
+                android:src="@drawable/icon1"
                 android:visibility="visible" />
         </LinearLayout>
     </LinearLayout>
